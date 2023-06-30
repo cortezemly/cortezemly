@@ -1,5 +1,5 @@
-- 👋 hola yo soy, @cortezemly
-- 👀 soy un estudiante de secundaria
-en busca de nuevos conociementos ...
-- 🌱 me gusta andar en skate y escuchar musica
-- bienvenidos a mi perfil aleatorio y conceptual.
+- 👋 Привет, я @cortezemly
+- 👀 Я старшеклассник
+ищу новые знания...
+- 🌱 Люблю кататься на коньках и слушать музыку
+- добро пожаловать в мой случайный и концептуальный профиль.
